@@ -77,7 +77,7 @@ main{
     color: rgba(0, 0, 0, 0.329);
     text-decoration: line-through;
 }
-button{
+.button{
     height: 40px;
     width: 100%;
     border: 2px solid black;
@@ -105,4 +105,14 @@ header{
     .top-bot-m{
         margin: 15px 0;
     }
+}
+.all-link{
+    text-decoration: wavy ;
+    text-decoration: red ;
+    color: teal ;
+    background-color: hotpink;
+}
+.p-color{
+    color: aqua ;
+
 }
